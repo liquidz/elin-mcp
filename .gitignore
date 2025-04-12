@@ -1,0 +1,9 @@
+/.cpcache/
+.nrepl-port
+/target
+**/.clj-kondo/.cache
+**/.lsp
+**/.gradle
+.idea
+*.iml
+.clj-kondo

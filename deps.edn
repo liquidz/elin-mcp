@@ -1,0 +1,2 @@
+{:paths ["src"]
+ :deps {io.github.liquidz/clj-mcp {:git/sha "45f6953397d84f673869e766556b18f9a6a7a0b3"}}}
