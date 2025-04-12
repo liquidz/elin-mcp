@@ -1,6 +1,6 @@
 = elin-mcp
 
-WARN: This is a personal library.
+WARN: Work in progress. And this is also a personal library for now.
 
 == Usage
 
